@@ -1,0 +1,4 @@
+C:\Users\alex\AppData\Local\Temporary Projects\WatchingTheClock\bin\Debug\WatchingTheClock.exe
+C:\Users\alex\AppData\Local\Temporary Projects\WatchingTheClock\bin\Debug\WatchingTheClock.pdb
+C:\Users\alex\AppData\Local\Temporary Projects\WatchingTheClock\obj\x86\Debug\WatchingTheClock.exe
+C:\Users\alex\AppData\Local\Temporary Projects\WatchingTheClock\obj\x86\Debug\WatchingTheClock.pdb

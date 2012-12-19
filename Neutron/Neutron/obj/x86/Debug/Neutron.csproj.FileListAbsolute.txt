@@ -1,0 +1,4 @@
+C:\Users\alex\AppData\Local\Temporary Projects\Neutron\bin\Debug\Neutron.exe
+C:\Users\alex\AppData\Local\Temporary Projects\Neutron\bin\Debug\Neutron.pdb
+C:\Users\alex\AppData\Local\Temporary Projects\Neutron\obj\x86\Debug\Neutron.exe
+C:\Users\alex\AppData\Local\Temporary Projects\Neutron\obj\x86\Debug\Neutron.pdb

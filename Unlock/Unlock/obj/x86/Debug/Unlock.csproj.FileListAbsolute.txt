@@ -1,0 +1,4 @@
+C:\Users\alex\AppData\Local\Temporary Projects\Unlock\bin\Debug\Unlock.exe
+C:\Users\alex\AppData\Local\Temporary Projects\Unlock\bin\Debug\Unlock.pdb
+C:\Users\alex\AppData\Local\Temporary Projects\Unlock\obj\x86\Debug\Unlock.exe
+C:\Users\alex\AppData\Local\Temporary Projects\Unlock\obj\x86\Debug\Unlock.pdb
